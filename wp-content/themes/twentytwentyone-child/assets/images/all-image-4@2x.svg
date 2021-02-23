@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="186px" height="152px" viewBox="0 0 186 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>all-image-4@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="34.1482205%" cy="43.3468893%" fx="34.1482205%" fy="43.3468893%" r="208.694805%" gradientTransform="translate(0.341482,0.433469),scale(0.819744,1.000000),rotate(-23.191138),translate(-0.341482,-0.433469)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#72BEED" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="-8.52651283e-14" y="-5.68434189e-14" width="185.423729" height="152"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wed-dev-exercise" transform="translate(-775.000000, -1390.000000)">
+            <g id="=Section-All" transform="translate(208.000000, 1319.000000)">
+                <g id="group-4" transform="translate(567.000000, 71.000000)">
+                    <g id="all-image-4">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Rectangle" fill="url(#radialGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+                        <g id="teamwork_white_7" mask="url(#mask-3)">
+                            <g transform="translate(-269.000000, -60.000000)">
+                                <polygon id="Path" fill="#60D6E6" fill-rule="evenodd" points="433 167 334 167 334 82.9078238 334 70 433 70"></polygon>
+                                <path d="M362,188 L315,188 L315,141 L362,141 L362,188 Z M315.73818,187.239482 L361.23899,187.239482 L361.23899,141.760518 L315.76101,141.760518 L315.73818,187.239482 Z" id="Shape" fill="#60D6E6" fill-rule="nonzero"></path>
+                                <path d="M260,187 L260,139 L300,161.933845 L260,187 Z M260.78125,140.334612 L260.78125,185.588686 L298.507812,161.949185 L260.78125,140.334612 Z" id="Shape" fill="#60D6E6" fill-rule="nonzero"></path>
+                                <polygon id="Path" fill="#FFB0B2" fill-rule="evenodd" points="490 245 431 245 431 190.82551 431 186 490 186"></polygon>
+                                <polygon id="Path" fill="#FF9398" fill-rule="evenodd" points="431 191 476 245 431 245"></polygon>
+                                <polygon id="Path" fill="#50CAD3" fill-rule="evenodd" points="334 83 433 125.337631 433 167 334 167"></polygon>
+                                <path d="M462.316832,203.00587 C462.316832,203.00587 446.772235,289.137311 445.324076,297.719694 C443.875918,306.302077 447.750512,403 447.750512,403 L467.369982,403 C467.369982,403 472.577191,308.89371 474.225627,300.941933 C475.874063,292.990155 498.875138,246.04852 504.120861,229.914255 C509.366585,213.77999 507.77207,196 507.77207,196 L462.316832,203.00587 Z" id="Path" fill="#19192B" fill-rule="evenodd"></path>
+                                <path d="M463.909692,107 L456.801796,149.612304 L394,156.943203 L396.307758,169.417368 C396.307758,169.417368 445.024536,173.00912 457.078727,169.370823 C469.132918,165.732525 476.994681,160.728895 479.725529,138.66638 C482.456376,116.603865 463.909692,107 463.909692,107 Z" id="Path" fill="#F89900" fill-rule="evenodd"></path>
+                                <rect id="Rectangle" fill="#7C6ADA" fill-rule="evenodd" x="387" y="115" width="59" height="59"></rect>
+                                <path d="M384.339163,163.235652 C384.339163,163.235652 385.2754,167.527296 388.31062,169.632491 C391.345841,171.737686 400.851668,171.671206 402.65619,167.593775 C404.460711,163.516345 398.669632,158.980942 396.699003,158.456489 C394.728375,157.932037 389.790479,161.455469 388.099212,161.063977 C386.407945,160.672484 388.31062,155.228523 386.989318,153.485274 C386.389079,152.496876 385.269643,151.924984 384.097553,152.007944 C384.097553,152.007944 383.969198,159.6679 384.00695,160.953177 C384.018981,161.724654 384.130603,162.491553 384.339163,163.235652 Z" id="Path" fill="#FBAD83" fill-rule="evenodd"></path>
+                                <polygon id="Path" fill="#FFFFFF" fill-rule="evenodd" points="434 155 400 155 417 128"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
